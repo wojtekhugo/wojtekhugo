@@ -1,4 +1,4 @@
-### Hi there 👋
+I type words on my keyboard and then that does stuff\
 
 <!--
 **wojtekhugo/wojtekhugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
